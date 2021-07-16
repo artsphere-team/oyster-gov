@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "./static/css/main.d832d215.chunk.css",
-    "main.js": "./static/js/main.53add85e.chunk.js",
+    "main.js": "./static/js/main.8ab0d017.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.4a3ee0af.js",
-    "static/js/2.9ebd15e6.chunk.js": "./static/js/2.9ebd15e6.chunk.js",
+    "static/js/2.a5398496.chunk.js": "./static/js/2.a5398496.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.e2dc0776e34927937249c020a2888eed.js": "./precache-manifest.e2dc0776e34927937249c020a2888eed.js",
+    "precache-manifest.c944a087ee55fb55865cd165c03557dd.js": "./precache-manifest.c944a087ee55fb55865cd165c03557dd.js",
     "service-worker.js": "./service-worker.js",
-    "static/js/2.9ebd15e6.chunk.js.LICENSE.txt": "./static/js/2.9ebd15e6.chunk.js.LICENSE.txt",
+    "static/js/2.a5398496.chunk.js.LICENSE.txt": "./static/js/2.a5398496.chunk.js.LICENSE.txt",
     "static/media/dark-horizontal-combined-rainbow.inline.svg": "./static/media/dark-horizontal-combined-rainbow.inline.4abc2aec.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.4a3ee0af.js",
-    "static/js/2.9ebd15e6.chunk.js",
+    "static/js/2.a5398496.chunk.js",
     "static/css/main.d832d215.chunk.css",
-    "static/js/main.53add85e.chunk.js"
+    "static/js/main.8ab0d017.chunk.js"
   ]
 }
