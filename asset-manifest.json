@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "./static/css/main.fe57343a.chunk.css",
-    "main.js": "./static/js/main.4011e9b4.chunk.js",
+    "main.js": "./static/js/main.8ebc3bc9.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.4a3ee0af.js",
-    "static/js/2.ef5d73e1.chunk.js": "./static/js/2.ef5d73e1.chunk.js",
+    "static/js/2.6ef727a4.chunk.js": "./static/js/2.6ef727a4.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.8e86dfb88b00871039ae353023c326cd.js": "./precache-manifest.8e86dfb88b00871039ae353023c326cd.js",
+    "precache-manifest.38b45d4e8edb00b8c6526c299f67e435.js": "./precache-manifest.38b45d4e8edb00b8c6526c299f67e435.js",
     "service-worker.js": "./service-worker.js",
-    "static/js/2.ef5d73e1.chunk.js.LICENSE.txt": "./static/js/2.ef5d73e1.chunk.js.LICENSE.txt",
+    "static/js/2.6ef727a4.chunk.js.LICENSE.txt": "./static/js/2.6ef727a4.chunk.js.LICENSE.txt",
     "static/media/dark-horizontal-combined-rainbow.inline.svg": "./static/media/dark-horizontal-combined-rainbow.inline.4abc2aec.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.4a3ee0af.js",
-    "static/js/2.ef5d73e1.chunk.js",
+    "static/js/2.6ef727a4.chunk.js",
     "static/css/main.fe57343a.chunk.css",
-    "static/js/main.4011e9b4.chunk.js"
+    "static/js/main.8ebc3bc9.chunk.js"
   ]
 }
