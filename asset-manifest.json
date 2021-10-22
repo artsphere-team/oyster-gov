@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "./static/css/main.fe57343a.chunk.css",
-    "main.js": "./static/js/main.73e68e4d.chunk.js",
+    "main.js": "./static/js/main.79f1c8db.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.4a3ee0af.js",
     "static/js/2.5d32afb6.chunk.js": "./static/js/2.5d32afb6.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.6be918b9f1e60f6a8201b9abdbee26ce.js": "./precache-manifest.6be918b9f1e60f6a8201b9abdbee26ce.js",
+    "precache-manifest.05ff306586bd2caddf4ff053882d1ee9.js": "./precache-manifest.05ff306586bd2caddf4ff053882d1ee9.js",
     "service-worker.js": "./service-worker.js",
     "static/js/2.5d32afb6.chunk.js.LICENSE.txt": "./static/js/2.5d32afb6.chunk.js.LICENSE.txt",
     "static/media/dark-horizontal-combined-rainbow.inline.svg": "./static/media/dark-horizontal-combined-rainbow.inline.4abc2aec.svg"
@@ -14,6 +14,6 @@
     "static/js/runtime-main.4a3ee0af.js",
     "static/js/2.5d32afb6.chunk.js",
     "static/css/main.fe57343a.chunk.css",
-    "static/js/main.73e68e4d.chunk.js"
+    "static/js/main.79f1c8db.chunk.js"
   ]
 }
